@@ -1,0 +1,75 @@
+Miala Rajoelina (MADA ESCAPE)  
+Version 2.8  
+© 2025 Mada Escape Team
+
+====================================================================
+ORIGINE DU PROJET
+====================================================================
+
+Ce projet est une version dérivée et améliorée du jeu initial
+"Mada Escape" développé par Albert Rafalimanana, dont le
+développement a débuté en janvier 2025.
+
+Avec notre collaboration, nous avons créé une version moderne et
+améliorée (actuellement en version 2.8) et le nomée en "Miala Rajoelina", apportant de nouvelles
+mécaniques, graphismes et contenus.
+
+====================================================================
+NATURE DU JEU
+====================================================================
+
+Miala Rajoelina est un jeu politique, basé sur la satire, la moquerie et la
+critique du pouvoir.  
+Il met en scène la haine, la démocratie et les mouvements populaires
+(grèves, révolutions) dans le but de ridiculiser et boycotter le
+Président actuel de la République, Andry Rajoelina.
+
+Ce jeu n’a pas vocation commerciale, il s’agit d’une œuvre de critique,
+d’humour et de contestation populaire.
+
+====================================================================
+LICENCE
+====================================================================
+
+Ce projet est open source et gratuit.
+
+Vous êtes autorisé à :
+- Utiliser le jeu librement, à titre personnel ou éducatif.
+- Modifier et redistribuer le code source et les ressources,
+  à condition de conserver cette licence et d’indiquer les auteurs
+  originaux.
+
+Il est strictement interdit :
+- De vendre, monétiser ou exploiter commercialement le jeu sans
+  l’autorisation écrite de l’équipe.
+- De supprimer ou altérer les mentions d’origine et de licence.
+
+====================================================================
+ÉQUIPE DE DÉVELOPPEMENT
+====================================================================
+
+- Albert Rafalimanana : Créateur du projet initial (2025)
+- Babakoto Mahagaga : Project Manager  
+- Melanie Ravakiniaina : Infographiste  
+- Thomas Rakotoson : Développeur  
+- Marco Pix : Développeur  
+- Sitraka Ramanantenasoa : Distributrice exclusive  
+- Albert Rafalimanana : Développeur et concepteur  
+
+====================================================================
+NOTE
+====================================================================
+
+Ce projet est fourni "TEL QUEL", sans garantie d’aucune sorte.  
+Les développeurs déclinent toute responsabilité en cas de dommages,
+pertes ou mésusages liés à l’utilisation du jeu.
+
+====================================================================
+LICENCE ET INSPIRATION
+====================================================================
+
+Cette licence s’inspire des licences libres (Open Source Initiative).
+Elle garantit la gratuité, la redistribution et la modification
+dans un cadre non commercial et dans le respect de l’esprit satirique
+et politique du projet.
+
